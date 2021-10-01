@@ -1,2 +1,2 @@
-#this is my app project
-this is a test
+# course project
+this is a testing project for demo.
